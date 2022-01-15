@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chem:brick_bowl"
+    },
+    {
+      "item": "chem:pestle"
+    }
+  ],
+  "result": {
+    "item": "chem:mortar_and_pestle",
+    "count": 1
+  }
+}

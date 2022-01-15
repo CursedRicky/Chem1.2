@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:potion"
+    },
+    "G": {
+      "item": "chem:wood_ash"
+    }
+  },
+  "result": {
+    "item": "chem:wood_ash_water_bottle",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "chem:tungsten_ore",
+    "chem:deep_tungsten_ore"
+  ]
+}

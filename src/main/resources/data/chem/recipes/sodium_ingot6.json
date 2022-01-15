@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "chem:deeo_sodium_ore"
+  },
+  "result": "chem:sodium_ingot",
+  "experience": 0.1,
+  "cookingtime": 150
+}

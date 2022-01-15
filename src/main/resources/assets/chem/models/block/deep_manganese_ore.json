@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chem:block/deep_osmium_ore"
+  }
+}

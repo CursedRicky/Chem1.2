@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "chem:osmium_ore",
+    "chem:deep_osmium_ore",
+    "chem:sodium_ore",
+    "chem:deep_sodium_ore",
+    "chem:silver_ore",
+    "chem:sulfur_ore"
+  ]
+}

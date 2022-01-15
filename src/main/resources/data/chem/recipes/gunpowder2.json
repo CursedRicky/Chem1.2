@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chem:coal_powder"
+    },
+    {
+      "item": "chem:sulfur"
+    },
+    {
+      "item": "chem:potassium_nitrate"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 5
+  }
+}

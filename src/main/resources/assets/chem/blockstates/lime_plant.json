@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "chem:block/vine_stage0"
+    },
+    "age=1": {
+      "model": "chem:block/vine_stage1"
+    },
+    "age=2": {
+      "model": "chem:block/vine_stage2"
+    },
+    "age=3": {
+      "model": "chem:block/vine_stage3"
+    },
+    "age=4": {
+      "model": "chem:block/vine_stage4"
+    },
+    "age=5": {
+      "model": "chem:block/vine_stage5"
+    },
+    "age=6": {
+      "model": "chem:block/vine_stage6"
+    },
+    "age=7": {
+      "model": "chem:block/vine_stage7"
+    }
+  }
+}

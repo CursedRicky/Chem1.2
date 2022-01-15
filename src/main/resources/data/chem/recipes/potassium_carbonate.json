@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "chem:wood_ash_water_bottle"
+  },
+  "result": "chem:potassium_carbonate",
+  "experience": 0.1,
+  "cookingtime": 200
+}
